@@ -22,3 +22,9 @@ Make sure you have Python 3 installed on your environment (Termux, Linux, Window
 ```bash
 python3 --version
 pip --version
+
+## 📦 Step-by-Step Setup & Quickstart Guide
+1. Clone the repository
+
+git clone [https://github.com/mystivara-creator/flask-vara.git](https://github.com/mystivara-creator/flask-vara.git)
+cd flask-vara
